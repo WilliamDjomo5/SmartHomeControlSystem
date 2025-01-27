@@ -13,7 +13,7 @@ A Java-based console application for managing smart home appliances like lights,
 1. Install [Java JDK 8+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SmartHomeControlSystem.git
+   git clone (https://github.com/WilliamDjomo5/SmartHomeControlSystem.git)
 Running the Application
 1. Using an IDE (e.g., Eclipse, IntelliJ IDEA)
 2. Open the project in your Java IDE.
